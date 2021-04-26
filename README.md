@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharvinvarghese
 - 👀 I’m interested in codes
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on open source (Xcite education)
+- 💞️ I’m looking to collaborate on open source 
 - 📫 How to reach me +91 9717385581
 
 <!---
