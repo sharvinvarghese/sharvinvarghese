@@ -2,7 +2,7 @@
 - 👀 I’m interested in codes
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on open source 
-- 📫 How to reach me +91 9717385581
+- 📫 How to reach me varghesesharvin435@gmail.com
 
 <!---
 sharvinvarghese/sharvinvarghese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
