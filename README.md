@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharvinvarghese
 - 👀 I’m interested in codes
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on open source 
+- 🌱 Data science
+- 💞️ I’m here to collaborate 
 - 📫 How to reach me sharvinvarghese@gmail.com
 
 <!---
