@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sharvin Varghese 👋</h1>
 
 <p align="center">
-  <b>Machine Learning Engineer · Computer Vision · LLMs · Data Science</b><br/>
+  <b>Machine Learning Engineer · Computer Vision · LLMs · Data Engineering</b><br/>
   <i>Building reliable, scalable ML systems — one model at a time.</i>
 </p>
 
@@ -15,13 +15,13 @@
 
 ## 🚀 About Me
 
-I'm a **Machine Learning Engineer** with ~3 years of experience across computer vision, LLMs, and data pipelines. I've built YOLO-based object detection systems for real industrial use cases, fine-tuned and evaluated large language models, and shipped financial monitoring platforms powered by multi-agent AI.
+I'm a **Machine Learning Engineer** with hands-on experience across computer vision, LLMs, and data pipelines. I've built YOLO-based object detection systems for real industrial use cases, fine-tuned and evaluated large language models, and shipped financial monitoring platforms powered by multi-agent AI.
 
 - 🔭 Currently: **Data Science Intern @ Tooliqa, Gurgaon** — semantic search chatbot, financial monitoring with Polygon.io, multi-agent LLM workflows & Apache Airflow
 - 🏭 Previously: **ML-CV Trainee @ Helmerich & Payne** — YOLO models, +25% accuracy, −40% inspection time
 - 📄 Published: IEEE paper on ML-infused Metabolomics for Preterm Birth Prediction (97% accuracy)
 - 🎓 Integrated B.Tech + M.Tech in Biotechnology — Amity University (2018–2023)
-- 📍 Noida & Gurgaon, India
+- 📍 Gurugram, Haryana, India
 
 ---
 
@@ -54,22 +54,20 @@ I'm a **Machine Learning Engineer** with ~3 years of experience across computer 
 ![SparseML](https://img.shields.io/badge/SparseML-00C7B7?style=flat&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-**Data Formats**
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-![XML](https://img.shields.io/badge/XML-E44D26?style=flat&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
 ---
 
 ## 🔬 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧬 **ML-in-Metabolomics** | Preterm birth prediction with 97% accuracy — IEEE published | Gradient Boosting, Scikit-learn |
-| 🏗️ **YOLO Object Detection** | Pipe height estimation & perimeter-breach detection (+25% accuracy) | YOLOv8, OpenCV, JFrog Artifactory |
-| 🤖 **AI Code Reviewer** | LLM-based system to evaluate interview & production code via API | Microsoft T5, LangChain, API |
-| 📈 **Financial Monitoring Platform** | Multi-agent platform using Polygon.io APIs + LLM analysis every 5 min | Pydantic, Apache Airflow, LLMs |
-| 💬 **Document Chatbot** | Semantic search over tabular datasets with embedding-based retrieval | Gemini API, all-MiniLM-L6-v2 |
+| Project | Description | Tech | Repo |
+|--------|-------------|------|------|
+| 🧬 **ML-in-Metabolomics** | Preterm birth prediction with 97% accuracy — IEEE published | Gradient Boosting, Scikit-learn | [→](https://github.com/sharvinvarghese/ML-in-metabolomics) |
+| 🏗️ **YOLO Object Detection** | Pipe height estimation & perimeter-breach detection (+25% accuracy) | YOLOv8, OpenCV, JFrog Artifactory | — |
+| 🤖 **AI Code Reviewer** | LLM-based system to evaluate interview & production code via API | Microsoft T5, LangChain, API | — |
+| 📈 **Financial Monitoring Platform** | Multi-agent platform using Polygon.io APIs + LLM analysis every 5 min | Pydantic, Apache Airflow, LLMs | — |
+| 💬 **Document Chatbot** | Semantic search over tabular datasets with embedding-based retrieval | Gemini API, all-MiniLM-L6-v2 | — |
+| 🗜️ **context-packer** | Intelligently compress & pack LLM context windows | Python, tiktoken, HuggingFace | [→](https://github.com/sharvinvarghese/context-packer) |
+| 🔍 **gitpulse** | Git repo health analyzer — scores, contributor insights, stale branches | Python, CLI | [→](https://github.com/sharvinvarghese/gitpulse) |
+| 🖼️ **smart-image-enhancer** | Batch image enhancement CLI — CLAHE, Retinex, tone mapping | Python, OpenCV | [→](https://github.com/sharvinvarghese/smart-image-enhancer) |
 
 ---
 
@@ -84,12 +82,6 @@ I'm a **Machine Learning Engineer** with ~3 years of experience across computer 
 - Worked on a Microsoft T5–based Code Reviewer integrated via API to automatically evaluate and provide structured feedback on interview and production-level code.
 
 *Other Roles: Cognizant · IQVIA · Blue Planet Infosolutions · CodeKaroYaaro · XcitEducation*
-
----
-
-## 🧠 Data Evaluation Skills
-
-Data Annotation · Content Analysis · Claim Validation · Fact Checking · Scenario-based Questions · Analytical Thinking · Logical Reasoning · Research & Summarization · English Comprehension · Grammar Review · Prompt Engineering · Model Evaluation
 
 ---
 
