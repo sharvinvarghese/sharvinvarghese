@@ -11,17 +11,31 @@
   <a href="https://github.com/sharvinvarghese"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢 Open to Work-ML%20%2F%20AI%20Engineer%20Roles-2ea44f?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 🚀 About Me
 
 I'm a **Machine Learning Engineer** with hands-on experience across computer vision, LLMs, and data pipelines. I've built YOLO-based object detection systems for real industrial use cases, fine-tuned and evaluated large language models, and shipped financial monitoring platforms powered by multi-agent AI.
 
-- 🔭 Currently: **Data Science Intern @ Tooliqa, Gurgaon** — semantic search chatbot, financial monitoring with Polygon.io, multi-agent LLM workflows & Apache Airflow
+- 🔭 Currently: **Data Science Intern @ Tooliqa, Gurugram** — semantic search chatbot, financial monitoring with Polygon.io, multi-agent LLM workflows & Apache Airflow
 - 🏭 Previously: **ML-CV Trainee @ Helmerich & Payne** — YOLO models, +25% accuracy, −40% inspection time
 - 📄 Published: IEEE paper on ML-infused Metabolomics for Preterm Birth Prediction (97% accuracy)
 - 🎓 Integrated B.Tech + M.Tech in Biotechnology — Amity University (2018–2023)
 - 📍 Gurugram, Haryana, India
+
+---
+
+## 🌱 Currently Learning
+
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=chainlink&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG%20Systems-FF6B6B?style=flat&logoColor=white)
+![Advanced Airflow](https://img.shields.io/badge/Airflow%20DAGs-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM%20Eval-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Algorithmic Trading](https://img.shields.io/badge/Algo%20Trading-2496ED?style=flat&logoColor=white)
 
 ---
 
@@ -40,6 +54,7 @@ I'm a **Machine Learning Engineer** with hands-on experience across computer vis
 
 **LLMs / AI / NLP**
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1A1A2E?style=flat&logoColor=white)
 ![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Qwen](https://img.shields.io/badge/Qwen-6C4AB6?style=flat&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=flat&logoColor=white)
@@ -61,10 +76,10 @@ I'm a **Machine Learning Engineer** with hands-on experience across computer vis
 | Project | Description | Tech | Repo |
 |--------|-------------|------|------|
 | 🧬 **ML-in-Metabolomics** | Preterm birth prediction with 97% accuracy — IEEE published | Gradient Boosting, Scikit-learn | [→](https://github.com/sharvinvarghese/ML-in-metabolomics) |
-| 🏗️ **YOLO Object Detection** | Pipe height estimation & perimeter-breach detection (+25% accuracy) | YOLOv8, OpenCV, JFrog Artifactory | — |
-| 🤖 **AI Code Reviewer** | LLM-based system to evaluate interview & production code via API | Microsoft T5, LangChain, API | — |
-| 📈 **Financial Monitoring Platform** | Multi-agent platform using Polygon.io APIs + LLM analysis every 5 min | Pydantic, Apache Airflow, LLMs | — |
-| 💬 **Document Chatbot** | Semantic search over tabular datasets with embedding-based retrieval | Gemini API, all-MiniLM-L6-v2 | — |
+| 🏗️ **YOLO Object Detection** | Pipe height estimation & perimeter-breach detection (+25% accuracy) | YOLOv8, OpenCV, JFrog Artifactory | *(private)* |
+| 🤖 **AI Code Reviewer** | LLM-based system to evaluate interview & production code via API | Microsoft T5, LangChain, API | *(private)* |
+| 📈 **Financial Monitoring Platform** | Multi-agent platform using Polygon.io APIs + LLM analysis every 5 min | Pydantic, Apache Airflow, LLMs | *(private)* |
+| 💬 **Document Chatbot** | Semantic search over tabular datasets with embedding-based retrieval | Gemini API, all-MiniLM-L6-v2 | *(private)* |
 | 🗜️ **context-packer** | Intelligently compress & pack LLM context windows | Python, tiktoken, HuggingFace | [→](https://github.com/sharvinvarghese/context-packer) |
 | 🔍 **gitpulse** | Git repo health analyzer — scores, contributor insights, stale branches | Python, CLI | [→](https://github.com/sharvinvarghese/gitpulse) |
 | 🖼️ **smart-image-enhancer** | Batch image enhancement CLI — CLAHE, Retinex, tone mapping | Python, OpenCV | [→](https://github.com/sharvinvarghese/smart-image-enhancer) |
@@ -73,7 +88,7 @@ I'm a **Machine Learning Engineer** with hands-on experience across computer vis
 
 ## 💼 Work Experience
 
-**Data Science Intern — Tooliqa, Gurgaon** *(Jan 2026 – Present)*
+**Data Science Intern — Tooliqa, Gurugram** *(Jan 2026 – Present)*
 - Built an internal document chatbot for semantic search over tabular datasets using Gemini API and the `all-MiniLM-L6-v2` embedding model; implemented tool-calling workflows to reduce token usage and generate structured analytical reports.
 - Developed a financial monitoring platform integrating Polygon.io APIs; used multi-agent LLM workflows, Pydantic validation, and Apache Airflow pipelines to ingest and analyze market data every 5 minutes for automated insights.
 
@@ -96,6 +111,10 @@ I'm a **Machine Learning Engineer** with hands-on experience across computer vis
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvinvarghese&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharvinvarghese&theme=tokyo-night&hide_border=true" width="98%"/>
+</p>
+
 ---
 
 ## 📜 Publication
@@ -107,5 +126,5 @@ I'm a **Machine Learning Engineer** with hands-on experience across computer vis
 
 <p align="center">
   <i>"The best model is the one that works in production."</i><br/>
-  <b>Open to collaborations on ML, CV, and LLM projects. Let's build something great.</b>
+  <b>🟢 Open to full-time ML / AI Engineer roles. Let's build something great.</b>
 </p>
